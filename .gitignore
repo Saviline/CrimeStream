@@ -1,0 +1,79 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+
+# Maven target directory
+/target/
+
+# IntelliJ IDEA project files
+.idea/
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+
+# Compiled class files
+*.class
+
+# Spring Boot specific
+spring.log
+
+.settings/
+
+
+
+# Environment and secret files (if any)
+.env
+*.env
+
+# Coverage and test reports
+coverage/
+*.exec
+
+# Backup files
+*~
+
+# Build output
+
+# Node modules (if front-end assets included)
+node_modules/
+
+# Idea out folder (if created)
+out/
+
